@@ -1,5 +1,5 @@
 
-![Image of Nairobi National Park](/assets/giraffe1.jpg)
+![Image of Nairobi National Park](./assets/giraffe1.jpg)
 ### Hi there 👋 
 ###### I'm Grace, a software developer from Kenya. 
 
