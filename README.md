@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![Image of Nairobi National Park](/assets/giraffe1.jpg)
+### Hi there 👋 
+###### I'm Grace, a software developer from Kenya. 
 
 <!--
 **GraceMurigi/GraceMurigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
