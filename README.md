@@ -1,7 +1,7 @@
 
 ![Image of Nairobi National Park](https://res.cloudinary.com/gracem/image/upload/v1596018452/zebra_kd1ifo.jpg)
 ### Hi there 👋 
-###### I'm Grace, a software developer from Kenya. 
+###### I'm Grace, a web developer from Kenya. 🔭Currently building with in Vue js.
 
 <!--
 **GraceMurigi/GraceMurigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
