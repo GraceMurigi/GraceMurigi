@@ -1,5 +1,5 @@
 
-![Image of Nairobi National Park](https://res.cloudinary.com/gracem/image/upload/v1596018453/giraffe1_j4pgiz.jpg)
+![Image of Nairobi National Park](https://res.cloudinary.com/gracem/image/upload/v1596018452/zebra_kd1ifo.jpg)
 ### Hi there 👋 
 ###### I'm Grace, a software developer from Kenya. 
 
