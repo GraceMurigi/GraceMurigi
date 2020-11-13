@@ -3,7 +3,6 @@
 
 -  🔭 I’m currently working on enterprise web solutions at MijiniTech Ltd. 
 - 🌱 I’m currently learning Flutter.
-- 🤔 I’m looking for help with getting started with contributing to open source.
 - 📫 How to reach me: gracemurigi95@gmail.com
 - ⚡ Fun fact: At Kyamwilu Hill, in the Machakos county of Kenya, water flows uphill and vehicles roll uphill. You should see it 😄.
 
