@@ -1,8 +1,7 @@
 
 ![Image of Nairobi National Park](https://res.cloudinary.com/gracem/image/upload/v1596018452/zebra_kd1ifo.jpg)
 
--  🔭 I’m currently working on enterprise web solutions at MijiniTech Ltd. 
-- 🌱 I’m currently learning Flutter.
+-  🔭 I’m currently looking for a good job. 
 - 📫 How to reach me: gracemurigi95@gmail.com
 - ⚡ Fun fact: At Kyamwilu Hill, in the Machakos county of Kenya, water flows uphill and vehicles roll uphill. You should see it 😄.
 
