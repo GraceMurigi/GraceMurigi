@@ -1,9 +1,9 @@
 
 ![Image of Nairobi National Park](https://res.cloudinary.com/gracem/image/upload/v1596018452/zebra_kd1ifo.jpg)
 
-- 🌱 I’m currently learning project management
-- 💬 Ask me about JavaScript
-- 📫 How to reach me: gracemurigi95@gmail.com
+- 🌱 I’m currently learning DevOps
+- 💬 Ask me about web development
+- 📫 How to reach me: grace.the.dev@gmail.com 
 - ⚡ Fun fact: At Kyamwilu Hill, in Machakos County - Kenya, water flows uphill and vehicles roll uphill. You should see it 😄.
 
 
